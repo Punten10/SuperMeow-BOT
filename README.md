@@ -6,7 +6,7 @@ Daftar Disini https://t.me/supermeow_vip_bot?start=1993663749
 
 ## Fitur
 ```bash
->> Auto Claim
+>> Auto Claim Mining
 >> Support Multi Akun
 ```
 ## instalasi
@@ -31,3 +31,12 @@ Daftar Disini https://t.me/supermeow_vip_bot?start=1993663749
 ```
 ![image](https://github.com/Punten10/SuperMeow-BOT/assets/64400801/e3657e51-a837-4461-a873-ee5989561e4e)
 
+#### Auto Claim Mining
+```shell
+>> python supermeow.py
+```
+![image](https://github.com/Punten10/SuperMeow-BOT/assets/64400801/3a5cc955-7e29-490f-91ae-e9c846e3e6a5)
+# SUPPORT ME
+https://sociabuzz.com/surrealflux/tribe
+
+[<img src="https://img.shields.io/badge/Telegram-%40Me-orange">](https://t.me/zuiredrop)
