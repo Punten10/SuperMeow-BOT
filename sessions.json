@@ -1,0 +1,42 @@
+[
+  {
+    "param": "telegram=6528552143&auth_data=%7B%22query_id%22:%22AAHPzCEFAwAAAM_MIQWImNtv%22,%22user%22:%22%7B%5C%22id%5C%22:6528552143,%5C%22first_name%5C%22:%5C%22ZUIRE%5C%22,%5C%22last_name%5C%22:%5C%225%5C%22,%5C%22username%5C%22:%5C%22ZUIRE5%5C%22,%5C%22language_code%5C%22:%5C%22en%5C%22,%5C%22allows_write_to_pm%5C%22:true%7D%22,%22auth_date%22:%221717843797%22,%22hash%22:%22f5effb757989e00c0d2340d599130fc63c56ba46005b55d45a06b35e3a1d0958%22%7D",
+    "username_telegram": "ZUIRE5",
+    "id_sesi": 1
+  },
+  {
+    "param": "telegram=7039531988&is_on_chain=false&auth_data=%7B%22query_id%22:%22AAHUu5YjAwAAANS7liMkS4GP%22,%22user%22:%22%7B%5C%22id%5C%22:7039531988,%5C%22first_name%5C%22:%5C%22ZUIRE%5C%22,%5C%22last_name%5C%22:%5C%226%5C%22,%5C%22username%5C%22:%5C%22ZUIRE06%5C%22,%5C%22language_code%5C%22:%5C%22en%5C%22,%5C%22allows_write_to_pm%5C%22:true%7D%22,%22auth_date%22:%221717842778%22,%22hash%22:%22cf808d9352950ad84f45cf39ceb7b4c72d009cdfebb433db430630b3603a582a%22%7D",
+    "username_telegram": "ZUIRE06",
+    "id_sesi": 2
+  },
+  {
+    "param": "telegram=7043456224&auth_data=%7B%22query_id%22:%22AAHgnNIjAwAAAOCc0iPyi4dE%22,%22user%22:%22%7B%5C%22id%5C%22:7043456224,%5C%22first_name%5C%22:%5C%22ZUIRE%5C%22,%5C%22last_name%5C%22:%5C%228%5C%22,%5C%22username%5C%22:%5C%22ZUIRE8%5C%22,%5C%22language_code%5C%22:%5C%22en%5C%22,%5C%22allows_write_to_pm%5C%22:true%7D%22,%22auth_date%22:%221717843949%22,%22hash%22:%22a055daaecf5706547ca88a9417bfc28b0b50769d1e0722e08538cf0816daebc4%22%7D",
+    "username_telegram": "ZUIRE8",
+    "id_sesi": 3
+  },
+  {
+    "param": "telegram=7053169868&auth_data=%7B%22query_id%22:%22AAHM1GYkAwAAAMzUZiQW5Nwt%22,%22user%22:%22%7B%5C%22id%5C%22:7053169868,%5C%22first_name%5C%22:%5C%22Squire%5C%22,%5C%22last_name%5C%22:%5C%22%5C%22,%5C%22username%5C%22:%5C%22Squire00%5C%22,%5C%22language_code%5C%22:%5C%22en%5C%22,%5C%22allows_write_to_pm%5C%22:true%7D%22,%22auth_date%22:%221717844036%22,%22hash%22:%22429246ce7a2262f2ef9d853f70b94aa4ea13ad006f9448d84675bcd702fe13df%22%7D",
+    "username_telegram": "SQUIRE",
+    "id_sesi": 4
+  },
+  {
+    "param": "telegram=6965277648&auth_data=%7B%22query_id%22:%22AAHQsykfAwAAANCzKR9y5N8K%22,%22user%22:%22%7B%5C%22id%5C%22:6965277648,%5C%22first_name%5C%22:%5C%22ZUIRE%5C%22,%5C%22last_name%5C%22:%5C%224%5C%22,%5C%22username%5C%22:%5C%22ZUIRE4%5C%22,%5C%22language_code%5C%22:%5C%22en%5C%22,%5C%22allows_write_to_pm%5C%22:true%7D%22,%22auth_date%22:%221717844086%22,%22hash%22:%22ee41ca9eeed0b9d46441844529b1883337d6b643cb2afae45cc3010bc88444ca%22%7D",
+    "username_telegram": "ZUIRE4",
+    "id_sesi": 5
+  },
+  {
+    "param": "telegram=7008446312&auth_data=%7B%22query_id%22:%22AAFoZ7whAwAAAGhnvCF7wEKM%22,%22user%22:%22%7B%5C%22id%5C%22:7008446312,%5C%22first_name%5C%22:%5C%22ZUIRE%5C%22,%5C%22last_name%5C%22:%5C%229%5C%22,%5C%22username%5C%22:%5C%22ZUIRE9%5C%22,%5C%22language_code%5C%22:%5C%22en%5C%22,%5C%22allows_write_to_pm%5C%22:true%7D%22,%22auth_date%22:%221717844144%22,%22hash%22:%220fed0464ab5b1b9c427a7e97d309697f0d39704c146830cf0606cd4ac7a51138%22%7D",
+    "username_telegram": "ZUIRE9",
+    "id_sesi": 6
+  },
+  {
+    "param": "telegram=7130985915&auth_data=%7B%22query_id%22:%22AAG7NQopAwAAALs1Cin7Z7N0%22,%22user%22:%22%7B%5C%22id%5C%22:7130985915,%5C%22first_name%5C%22:%5C%22ZUIRE%5C%22,%5C%22last_name%5C%22:%5C%227%5C%22,%5C%22username%5C%22:%5C%22ZUIRE07%5C%22,%5C%22language_code%5C%22:%5C%22en%5C%22,%5C%22allows_write_to_pm%5C%22:true%7D%22,%22auth_date%22:%221717844218%22,%22hash%22:%227688fa3e618d4503494ca20b7a61acb38b6cf23366bbf437c0238243d99bc32c%22%7D",
+    "username_telegram": "ZUIRE07",
+    "id_sesi": 7
+  },
+  {
+    "param": "telegram=1993663749&auth_data=%7B%22query_id%22:%22AAEF5dR2AAAAAAXl1HaI_MP9%22,%22user%22:%22%7B%5C%22id%5C%22:1993663749,%5C%22first_name%5C%22:%5C%22SurrealFlux%5C%22,%5C%22last_name%5C%22:%5C%22%5C%22,%5C%22username%5C%22:%5C%22ZUiRE08%5C%22,%5C%22language_code%5C%22:%5C%22en%5C%22,%5C%22allows_write_to_pm%5C%22:true%7D%22,%22auth_date%22:%221717844260%22,%22hash%22:%227fd2ba2c3996e95dc6a525b1f1b44fc055bdd3f3e150c4ed2dd3f603695f56e0%22%7D",
+    "username_telegram": "SurrealFlux",
+    "id_sesi": 8
+  }
+]
