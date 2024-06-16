@@ -7,6 +7,7 @@ Daftar Disini https://t.me/supermeow_vip_bot?start=1993663749
 ## Fitur
 ```bash
 >> Auto Claim Mining
+>> Auto Task Completed
 >> Support Multi Akun
 ```
 ## instalasi
