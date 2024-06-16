@@ -52,6 +52,11 @@ Daftar Disini https://t.me/supermeow_vip_bot?start=1993663749
 ```
 ![image](https://github.com/Punten10/SuperMeow-BOT/assets/64400801/ef43cc75-11e6-4933-98cb-88ba23aa8b2b)
 
+#### Auto Task Completed
+```shell
+>> python task.py
+```
+
 # SUPPORT ME
 https://sociabuzz.com/surrealflux/tribe
 
