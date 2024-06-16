@@ -36,6 +36,22 @@ Daftar Disini https://t.me/supermeow_vip_bot?start=1993663749
 >> python supermeow.py
 ```
 ![image](https://github.com/Punten10/SuperMeow-BOT/assets/64400801/3a5cc955-7e29-490f-91ae-e9c846e3e6a5)
+
+#### Dapatkan auth_data
+```shell
+>> Dapatkan Parameter
+# Awalan auth_data=%7Bxxx
+>> Buka web telegram atau telegram desktop
+# Agar bisa melakukan inspect pada telegram desktop ikuti langkah ini
+>> Menu setting => advanced => experimental settings => enable webview inspecting
+# Untuk web telegram Klik kanan pilih inspect / F12
+# Untuk telegram desktop Klik F12 pada webview
+>> Selanjut nya Pilih tab Network pada devtools
+>> Cari profile, quest?auth_data=%7Bxxx, lalu pilih Headers scroll kebawah copy auth_data=%7Bxxx
+>> Setelah itu input pada hashes.txt,
+```
+![image](https://github.com/Punten10/SuperMeow-BOT/assets/64400801/ef43cc75-11e6-4933-98cb-88ba23aa8b2b)
+
 # SUPPORT ME
 https://sociabuzz.com/surrealflux/tribe
 
